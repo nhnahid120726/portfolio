@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "969446572654",
+    "project_id": "dayliwork-9316e",
+    "storage_bucket": "dayliwork-9316e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969446572654:android:06e8043f4990f4f1819c7f",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd-9FOdtbmscLj3Wlx6Ora-bS49ByAWB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
